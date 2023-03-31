@@ -1,6 +1,6 @@
 Name:		texlive-getitems
 Version:	39365
-Release:	1
+Release:	2
 Summary:	Gathering items from a list-like environment
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/getitems

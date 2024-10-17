@@ -3,7 +3,7 @@ Version:	39365
 Release:	2
 Summary:	Gathering items from a list-like environment
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/getitems
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/getitems
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/getitems.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/getitems.doc.r%{version}.tar.xz
